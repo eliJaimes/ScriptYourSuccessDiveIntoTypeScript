@@ -1,0 +1,24 @@
+{
+	"name": "script-your-success-dive-into-type-script",
+	"version": "1.0.0",
+	"description": "Script Your Success - Dive into TypeScript",
+	"keywords": [
+		"Typescript",
+		"Script Your Success - Dive into TypeScript"
+	],
+	"license": "ISC",
+	"author": "Eli Jaimes",
+	"type": "commonjs",
+	"main": "index.js",
+	"scripts": {},
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "7.5.0",
+		"@typescript-eslint/parser": "7.5.0",
+		"eslint": "8.57.0",
+		"eslint-config-prettier": "9.1.0",
+		"eslint-config-standard": "17.1.0",
+		"eslint-plugin-prettier": "5.1.3",
+		"prettier": "3.2.5",
+		"typescript": "5.8.2"
+	}
+}

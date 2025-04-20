@@ -1,0 +1,17 @@
+{
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
+	// https://marketplace.visualstudio.com/items?itemName=Orta.vscode-twoslash-queries
+	// https://marketplace.visualstudio.com/items?itemName=nick-lvov-dev.typescript-explicit-types
+	// https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+	// https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+	// https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+	// https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
+	"recommendations": [
+		"Orta.vscode-twoslash-queries",
+		"nick-lvov-dev.typescript-explicit-types",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"formulahendry.code-runner",
+		"usernamehw.errorlens"
+	]
+}

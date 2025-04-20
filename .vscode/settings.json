@@ -1,0 +1,24 @@
+{
+	/* ••[2]•••••••••• ESLINT ••••••••••••••• */
+	// https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+	"eslint.options": {
+		"overrideConfigFile": null, // NOTE: Use this to consume local .eslintrc.js file
+	},
+	/* ••[1]••••••••••••••••••••••••• CODE RUNNER •••••••••••••••••••••••••••••• */
+	// https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+	"code-runner.defaultLanguage": "typescript",
+	"code-runner.executorMap": {
+		"typescript": "ts-node-dev"
+	},
+	"code-runner.saveFileBeforeRun": true,
+	"code-runner.clearPreviousOutput": true,
+	"code-runner.preserveFocus": true,
+	"code-runner.runInTerminal": false,
+	"code-runner.saveAllFilesBeforeRun": false,
+	"code-runner.showRunCommandInEditorContextMenu": true,
+	"code-runner.showRunCommandInExplorerContextMenu": true,
+	"code-runner.showRunIconInEditorTitleMenu": true,
+	"code-runner.showStopIconInEditorTitleMenu": true,
+	"code-runner.showExecutionMessage": true,
+	"code-runner.enableAppInsights": false,
+}
